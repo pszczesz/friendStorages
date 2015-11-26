@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using Autofac;
 using FriendStories.UI.Startup;
+using FriendStories.UI.View;
 using FriendStories.UI.ViewModel;
 
 namespace FriendStories.UI

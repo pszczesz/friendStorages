@@ -10,7 +10,7 @@ namespace FriendStories.DAL {
     public class FileDataService:IDataServices {
         private const string StorageFile = "Friends.json";
         public void Dispose() {
-            throw new System.NotImplementedException();
+            
         }
 
         public Friend GetFriendById(int friendId) {

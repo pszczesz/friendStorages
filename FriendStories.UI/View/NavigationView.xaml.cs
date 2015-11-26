@@ -12,19 +12,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using FriendStories.UI.ViewModel;
 
 namespace FriendStories.UI.View
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for NavigationView.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class NavigationView : UserControl
     {
-        public MainWindow(MainViewModel viewModel)
+        public NavigationView()
         {
             InitializeComponent();
-            DataContext = viewModel;
         }
     }
 }
