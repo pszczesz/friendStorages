@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendStories.DAL", "Friend
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendStories.Model", "FriendStories.Model\FriendStories.Model.csproj", "{616C78BF-FBCF-4A72-A11C-D5D316B99823}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendStories.UI", "FriendStories.UI\FriendStories.UI.csproj", "{22B1F66E-987A-4E2F-8B2D-ADA6D86A7F00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{616C78BF-FBCF-4A72-A11C-D5D316B99823}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{616C78BF-FBCF-4A72-A11C-D5D316B99823}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{616C78BF-FBCF-4A72-A11C-D5D316B99823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B1F66E-987A-4E2F-8B2D-ADA6D86A7F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B1F66E-987A-4E2F-8B2D-ADA6D86A7F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B1F66E-987A-4E2F-8B2D-ADA6D86A7F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B1F66E-987A-4E2F-8B2D-ADA6D86A7F00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
