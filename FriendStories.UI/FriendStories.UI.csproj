@@ -69,7 +69,6 @@
     <Compile Include="DataProvider\Lookups\FriendGroupLookupProvider.cs" />
     <Compile Include="DataProvider\Lookups\FriendLookupProvider.cs" />
     <Compile Include="DataProvider\Lookups\ILookupProvider.cs" />
-    <Compile Include="DataProvider\Lookups\ILookupProvider1.cs" />
     <Compile Include="DataProvider\Lookups\LookupItem.cs" />
     <Compile Include="Evants\FriendDeletedEvent.cs" />
     <Compile Include="Evants\FriendSavedEvent.cs" />
